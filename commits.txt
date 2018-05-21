@@ -1,0 +1,35 @@
+commit 1eee7abc7cdfd8a88697c36c541ff2bc24d9a81a
+Author: jorgeali <jorgeali.ramirez23@gmail.com>
+Date:   Thu May 17 17:23:46 2018 -0500
+
+    Agregué mi portafolio
+
+commit 02f2896ee975d1b9123443455e918cbfb84ac0c2
+Author: jorgeali <jorgeali.ramirez23@gmail.com>
+Date:   Thu May 17 17:22:37 2018 -0500
+
+    Agregué descripción
+
+commit f08ddfd0f2b5a84d68881a9eb826e0132a08a400
+Author: jorgeali <jorgeali.ramirez23@gmail.com>
+Date:   Thu May 17 17:20:22 2018 -0500
+
+    Agregué redes sociales
+
+commit 71888bfcb0e8df2d43ec6da1816bf5c08ab6ea64
+Author: jorgeali <jorgeali.ramirez23@gmail.com>
+Date:   Thu May 17 17:17:17 2018 -0500
+
+    Escribí perfil web
+
+commit 3a7db7ed62e620ba0c310d5607624ccb0143067b
+Author: jorgeali <jorgeali.ramirez23@gmail.com>
+Date:   Thu May 17 17:14:53 2018 -0500
+
+    Foto de perfil y nombre
+
+commit e3f2e2d3c99b017ef494146c13995ddddf664d8e
+Author: jorgeali <jorgeali.ramirez23@gmail.com>
+Date:   Thu May 17 17:04:35 2018 -0500
+
+    Archivos base del portafolio
